@@ -12,7 +12,8 @@ int main() {
   cin >> number;
 
   // checks if the number is positive
-  if (number > 0) {
+  if (number > 0) 
+  {
     cout << "You entered a positive integer: " << number << endl;
   }
 
