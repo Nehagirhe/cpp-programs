@@ -8,11 +8,9 @@ int main() {
 
   cout << "Enter an integer: ";
   cin >> number;
-
-  
   if (number > 0) 
   {
-    cout << "You entered a positive integer: " << number << endl;
+   cout << "You entered a positive integer: " << number << endl;
   }
 
   
