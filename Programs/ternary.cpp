@@ -1,10 +1,8 @@
 //Check Whether Number is Even or Odd using ternary operators
 #include <iostream>
 using namespace std;
-
 int main() {
   int n;
-
   cout << "Enter an integer: ";
   cin >> n;
     
