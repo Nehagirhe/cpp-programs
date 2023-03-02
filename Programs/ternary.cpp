@@ -1,4 +1,5 @@
 //Check Whether Number is Even or Odd using ternary operators
+
 #include <iostream>
 using namespace std;
 int main() {
