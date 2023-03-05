@@ -46,7 +46,7 @@ class Result2:public Result1
  } ;
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-int main(int argc, char** argv) {
+int main() {
 	Result2 r,r1;
 	r.Assign();
 	r.Total();
