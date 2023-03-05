@@ -14,18 +14,18 @@ class Result1
 		
 		void Assign()
 		{
-			cout<<"ENTER STUDENT NAME : ";
-			cin>>name;
-		    cout<<"ENTER STUDENT LAST NAME : ";
-			cin>>lname;
-			cout<<"ENTER STUDENT ROLL NO. : ";
-			cin>>roll;
-			cout<<"ENTER STUDENT PAPER 1 MARKS : ";
-			cin>>paper1;
-			cout<<"ENTER STUDENT PAPER 2 MARKS: ";
-			cin>>paper2;
-			cout<<"ENTER STUDENT PAPER 3 MARKS: ";
-			cin>>paper3;	
+		cout<<"ENTER STUDENT NAME : ";
+		cin>>name;
+		 cout<<"ENTER STUDENT LAST NAME : ";
+		cin>>lname;
+		cout<<"ENTER STUDENT ROLL NO. : ";
+		cin>>roll;
+		cout<<"ENTER STUDENT PAPER 1 MARKS : ";
+		cin>>paper1;
+		cout<<"ENTER STUDENT PAPER 2 MARKS: ";
+		cin>>paper2;
+		cout<<"ENTER STUDENT PAPER 3 MARKS: ";
+		cin>>paper3;	
 		}
 		
 		void Total()
