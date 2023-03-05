@@ -30,13 +30,13 @@ class Result1
 		
 		void Total()
 		{
-			tot=paper1+paper2+paper3;
-			cout<<"\nTOTAL = "<<tot;
+		tot=paper1+paper2+paper3;
+		cout<<"\nTOTAL = "<<tot;
 		}
 		void Percentage()
 		{
-			per=tot/300*100;
-			cout<<"\nPERCENTAGE = "<<per;
+		per=tot/300*100;
+		cout<<"\nPERCENTAGE = "<<per;
 		}
 		
 };
