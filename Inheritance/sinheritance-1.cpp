@@ -19,7 +19,7 @@ class Result1
 		{
 			cout<<"ENTER STUDENT NAME : ";
 			cin>>name;
-		    cout<<"ENTER STUDENT LAST NAME : ";
+		        cout<<"ENTER STUDENT LAST NAME : ";
 			cin>>lname;
 			cout<<"ENTER STUDENT ROLL NO. : ";
 			cin>>roll;
@@ -47,7 +47,6 @@ class Result2:public Result1
 {
 	
  } ;
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main(int argc, char** argv) {
 	Result2 r,r1;
