@@ -1,0 +1,31 @@
+#include <iostream>
+using namespace std;
+class Student 
+{
+	public:
+    string name;
+        
+    Student()
+    {
+    name="Unknown";	
+	}
+	
+	Student(string n)
+	{
+	name=n;
+	}
+	void getdata()
+	{
+		cout<<endl<<"Name = "<<name;
+	}	
+};
+int main(int argc, char** argv) {
+	string n;
+	Student s("Neha");
+	s.getdata();
+	cout<<"\nEnter Name : ";
+	cin>>n;
+	Student s1(n);
+    s1.getdata();
+	return 0;
+}
