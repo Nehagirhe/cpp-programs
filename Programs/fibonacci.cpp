@@ -1,4 +1,5 @@
 //Fibonacci Series up to n number of terms
+
 #include <iostream>
 using namespace std;
 
@@ -9,7 +10,6 @@ int main() {
     cin >> n;
 
     cout << "Fibonacci Series: ";
-
     for (int i = 1; i <= n; ++i) {
         
         if(i == 1) {
