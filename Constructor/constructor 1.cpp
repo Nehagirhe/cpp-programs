@@ -22,8 +22,7 @@ class Print
 	{
 		cout<<"\nnumber = "<<a;
 		cout<<"\ncharacter = "<<b;
-	}
-		
+	}	
 		
 };
 int main(int argc, char** argv) {
