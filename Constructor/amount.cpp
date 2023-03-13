@@ -12,7 +12,6 @@ class AddAmount
 	int amount=50;
 	int a;
 	
-	
 	AddAmount()
 	{
 		amount=50;
