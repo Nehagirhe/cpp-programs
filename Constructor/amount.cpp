@@ -24,9 +24,7 @@ class AddAmount
 	void getdata()
 	{
 		cout<<"\nAmount :"<<amount;
-	}
-	
-		
+	}	
 };
 
 int main() {
