@@ -4,6 +4,7 @@ With A Data Member Named 'amount' With An Initial value Of $50. Now Make Two Con
 2-having A Parameter Which Is The Amount That Will Be Added To The Piggie Bank
 Create An Object Of The  'AddAmount' Class And Display The Final Amount In The Piggie Bank.*/
 
+
 #include <iostream>
 using namespace std;
 class AddAmount
