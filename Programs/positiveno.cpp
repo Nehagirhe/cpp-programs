@@ -1,5 +1,4 @@
 // Program to print positive number entered by the user
-
 #include <iostream>
 using namespace std;
 int main() {
