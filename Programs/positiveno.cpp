@@ -11,7 +11,6 @@ int main() {
    cout << "You entered a positive integer: " << number << endl;
   }
 
-  
 
   return 0;
 }
