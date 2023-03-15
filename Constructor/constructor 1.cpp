@@ -15,8 +15,8 @@ class Print
 	
 	Print(char c,int n)
 	{
-		a=n;
-		b=c;
+	a=n;
+	b=c;
 		
 	}
 	void getdata()
