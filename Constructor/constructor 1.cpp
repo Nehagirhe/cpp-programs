@@ -2,9 +2,9 @@
 using namespace std;
 class Print
 {
-	public:
-	int a;
-	char b;
+public:
+int a;
+char b;
 		
  Print(int n,char c)
 	 
