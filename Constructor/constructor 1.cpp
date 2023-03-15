@@ -7,6 +7,7 @@ class Print
 	char b;
 		
  Print(int n,char c)
+	 
 	{
 	a=n;
 	b=c;	
