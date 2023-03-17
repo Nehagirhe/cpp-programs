@@ -10,7 +10,7 @@ int main(int argc, char** argv) {
 	{
 	temp=1;
 	break;
-}
+        }
 	}
 if(temp==1)
 	cout<<endl<<"it is not a prime number";
