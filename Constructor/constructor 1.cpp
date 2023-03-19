@@ -4,8 +4,7 @@ class Print
 {
 public:
 int a;
-char b;
-		
+char b;		
  Print(int n,char c) 
 	{
 	a=n;
