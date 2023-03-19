@@ -24,6 +24,7 @@ char b;
 	}	
 		
 };
+
 int main(int argc, char** argv) {
 	Print p(2,'A');
 	p.getdata();
