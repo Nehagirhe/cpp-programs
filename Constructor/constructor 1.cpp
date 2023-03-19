@@ -6,8 +6,7 @@ public:
 int a;
 char b;
 		
- Print(int n,char c)
-	 
+ Print(int n,char c) 
 	{
 	a=n;
 	b=c;	
