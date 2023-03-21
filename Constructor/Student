@@ -14,7 +14,7 @@ class Student
     Student()
     {
     name="Unknown";	
-	}
+    }
 	
 	Student(string n)
 	{
