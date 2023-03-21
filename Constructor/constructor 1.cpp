@@ -2,6 +2,7 @@
 using namespace std;
 class Print
 {
+	
 public:
 int a;
 char b;		
