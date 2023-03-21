@@ -20,8 +20,8 @@ char b;
 	}
 	void getdata()
 	{
-		cout<<"\nnumber = "<<a;
-		cout<<"\ncharacter = "<<b;
+	cout<<"\nnumber = "<<a;
+	cout<<"\ncharacter = "<<b;
 	}	
 		
 };
