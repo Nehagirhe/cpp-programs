@@ -28,6 +28,7 @@ class Student
 int main(int argc, char** argv) {
 	string n;
 	Student s("Neha");
+	
 	s.getdata();
 	cout<<"\nEnter Name : ";
 	cin>>n;
