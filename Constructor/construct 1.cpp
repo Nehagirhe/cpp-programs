@@ -14,6 +14,7 @@ public:
 };
  
 student::student()
+ 
 {
     cout << "Enter the RollNo:";
     cin >> rno;
