@@ -9,6 +9,7 @@ class student
     double fee;
  
 public:
+ 
     student();
     void display();
 };
