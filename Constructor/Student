@@ -15,8 +15,8 @@ class Student
     {
     name="Unknown";	
     }
-	
-	Student(string n)
+    
+   Student(string n)
 	{
 	name=n;
 	}
@@ -28,11 +28,13 @@ class Student
 int main(int argc, char** argv) {
 	string n;
 	Student s("Neha");
-	
 	s.getdata();
+	
 	cout<<"\nEnter Name : ";
 	cin>>n;
-	Student s1(n);
+	
+    Student s1(n);
     s1.getdata();
+    
 	return 0;
 }
