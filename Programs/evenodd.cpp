@@ -4,6 +4,7 @@ using namespace std;
 int main() {
   int n;
 
+  
   cout << "Enter an integer: ";
   cin >> n;
 
@@ -11,7 +12,7 @@ int main() {
     cout << n << " is even.";
   else
     cout << n << " is odd.";
-
+  
   return 0;
 }
 
