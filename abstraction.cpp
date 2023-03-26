@@ -32,9 +32,9 @@ class Bank
 		void cgetdata()
 		{
 			
-			cout<<"\nAccount No. : "<<acno;
-			cout<<"\nName : "<<name;
-			cout<<"\nAmount : "<<amount;
+		cout<<"\nAccount No. : "<<acno;
+		cout<<"\nName : "<<name;
+		cout<<"\nAmount : "<<amount;
 		}
 			private:	
 		int login(string uname,string upass)
