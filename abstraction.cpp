@@ -12,6 +12,7 @@ class Bank
 	int loss;
 	
 	public:
+	
 		void csetdata()
 		{
 		string usern,passw;
