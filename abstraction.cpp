@@ -60,6 +60,7 @@ class Bank
 			
 		cout<<"Enter Profit : ";
 		cin>>profit;
+			
 		cout<<"Enter Loss : ";
 		cin>>loss;
 		}
