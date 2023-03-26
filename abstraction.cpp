@@ -57,6 +57,7 @@ class Bank
 		cin>>username;
 		cout<<"Enter Pass Word : ";
 		cin>>amount;*/
+			
 		cout<<"Enter Profit : ";
 		cin>>profit;
 		cout<<"Enter Loss : ";
