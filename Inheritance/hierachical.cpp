@@ -42,6 +42,7 @@ int main()
  b.AcceptValue();
  b.AreaRect();
  cout<<"\n\n\n*********   FOR PERIMETER OF RECTANGLE   ********";
+
  c.AcceptValue();
  c.Perimeter();	
 
