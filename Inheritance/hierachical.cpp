@@ -39,6 +39,7 @@ int main()
  B b;
  C c;
  cout<<"\n\n**********  FOR AREA OF RECTANGLE   *************";
+
  b.AcceptValue();
  b.AreaRect();
 
