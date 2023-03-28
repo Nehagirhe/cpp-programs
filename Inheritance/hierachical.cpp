@@ -9,6 +9,7 @@ class A
 		{
 			cout<<"\n\nEnter Length : ";
 			cin>>l;
+			
 			cout<<"Enter Breadth : ";
 			cin>>b;
 		}
