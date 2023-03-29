@@ -21,7 +21,7 @@ class B:public A
 	public:
 		void AreaRect()
 		{
-			cout<<"Area = "<<l*b;
+		cout<<"Area = "<<l*b;
 			
 		}
 };
