@@ -72,6 +72,7 @@ class Bank
 		cout<<"\nName : "<<name;
 		cout<<"\nAmount : "<<amount;
 		cout<<"\nUser Name : "<<username;
+			
 		cout<<"\nPass Word : "<<pass;
 		cout<<"\nProfit : "<<profit;
 		cout<<"\nLoss : "<<loss;	
