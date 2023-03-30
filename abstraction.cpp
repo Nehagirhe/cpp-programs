@@ -30,10 +30,10 @@ class Bank
 	}
 	
 		void cgetdata()
-		{
-			
+		{	
 		cout<<"\nAccount No. : "<<acno;
 		cout<<"\nName : "<<name;
+			
 		cout<<"\nAmount : "<<amount;
 		}
 			private:	
