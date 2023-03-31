@@ -2,7 +2,6 @@
 #include <iostream>
 
 using namespace std;
-
 class Result1
 {
 	public:
@@ -33,8 +32,8 @@ class Result1
 		
 		void Total()
 		{
-			tot=paper1+paper2+paper3;
-			cout<<"\nTOTAL = "<<tot;
+		tot=paper1+paper2+paper3;
+		cout<<"\nTOTAL = "<<tot;
 		}
 		void Percentage()
 		{
