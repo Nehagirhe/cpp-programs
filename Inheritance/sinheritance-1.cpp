@@ -1,6 +1,7 @@
 //Program For Single Inheritance
 #include <iostream>
 
+
 using namespace std;
 class Result1
 {
