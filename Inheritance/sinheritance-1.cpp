@@ -47,14 +47,14 @@ class Result2:public Result1
 	
  } ;
 
-int main(int argc, char** argv) {
+int main(int argc, char** argv) 
+{
 	Result2 r,r1;
 	r.Assign();
 	r.Total();
 	r.Percentage();
 	r1.Assign();
 	r1.Total();
-	r1.Percentage();
-	
+	r1.Percentage();	
 	return 0;
 }
