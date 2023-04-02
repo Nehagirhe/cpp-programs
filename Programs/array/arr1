@@ -1,4 +1,4 @@
-Example 1: Passing One-dimensional Array to a Function
+// Passing One-dimensional Array to a Function
 // C++ Program to display marks of 5 students
 
 #include <iostream>
@@ -18,7 +18,7 @@ void display(int m[5]) {
 int main() {
 
     
-    int marks[5] = {88, 76, 90, 61, 69};
+    int marks[5] = {90, 66, 55, 91, 79};
     
    
     display(marks);
