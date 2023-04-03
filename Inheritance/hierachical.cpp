@@ -47,6 +47,5 @@ int main()
  cout<<"\n\n\n*********   FOR PERIMETER OF RECTANGLE   ********";
  c.AcceptValue();
  c.Perimeter();	
-
 return 0;
 }
