@@ -35,6 +35,7 @@ int x;
 	
 	cout<<"\nEnter An Amount You Want To Add In Piggie Bank : ";
 	cin>>x;
+	
 	AddAmount b(x);
 	b.getdata();
 	return 0;
