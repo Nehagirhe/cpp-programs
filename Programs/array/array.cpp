@@ -4,7 +4,6 @@
 #include <iostream>
 using namespace std;
 
-
 void display(int m[5]) {
     cout << "Displaying marks: " << endl;
 
