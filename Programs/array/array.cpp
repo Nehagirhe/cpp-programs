@@ -19,7 +19,7 @@ int main() {
     // declare and initialize an array
     int marks[5] = {88, 76, 90, 61, 69};
     
-    // call display function
+    
     // pass array as argument
     display(marks);
 
