@@ -20,6 +20,7 @@ class AddAmount
 	AddAmount(int amt)
 	{
 	a=amt;
+		
 	amount=amount+a;
 	}
 	void getdata()
