@@ -38,5 +38,6 @@ int x;
 	
 	AddAmount b(x);
 	b.getdata();
+	
 	return 0;
 }
