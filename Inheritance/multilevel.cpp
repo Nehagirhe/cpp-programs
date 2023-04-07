@@ -28,7 +28,6 @@ class B:public A
 		void substraction()
 		{
 			cout<<" SUBSTRACTION "<<a-b;
-			
 		}
 };
 class C:public B
@@ -53,6 +52,7 @@ D d;
 cout<<"\n\n---------ADITION------------";
 d.assign();
 d.Addition();
+
 cout<<"\n\n---------SUBSTRACION------------";
 d.assign();
 d.substraction();
