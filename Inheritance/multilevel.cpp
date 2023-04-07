@@ -56,6 +56,7 @@ d.Addition();
 cout<<"\n\n---------SUBSTRACION------------";
 d.assign();
 d.substraction();
+
 cout<<"\n\n---------MULTIPLICATION------------";
 d.assign();
 d.multiplication();
