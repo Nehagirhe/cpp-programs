@@ -7,9 +7,9 @@ using namespace std;
 void display(int m[5]) {
     cout << "Displaying marks: " << endl;
 
-    // display array elements    
+    
     for (int i = 0; i < 5; ++i) {
-        cout << "Student " << i + 1 << ": " << m[i] << endl;
+     cout << "Student " << i + 1 << ": " << m[i] << endl;
     }
 }
 
