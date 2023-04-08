@@ -15,7 +15,7 @@ void display(int m[5]) {
 
 int main() {
 
-    // declare and initialize an array
+   
     int marks[5] = {88, 76, 90, 61, 69};
    
     display(marks);
