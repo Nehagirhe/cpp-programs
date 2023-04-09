@@ -30,7 +30,9 @@ int main()
 {
 	Print p(2,'A');
 	p.getdata();
+
 	Print p1('B',10);
 	p1.getdata();
+
 	return 0;
 }
