@@ -64,6 +64,7 @@ class Arithmetics
 
 	cout<<"\nSub : "<<a.GetSub();
 	a.SetMod(30,4);
+
 	cout<<"\nMod : "<<a.GetMod();
 	a.SetDiv(50,5);
 
