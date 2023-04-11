@@ -66,6 +66,7 @@ class Arithmetics
 	a.SetMod(30,4);
 	cout<<"\nMod : "<<a.GetMod();
 	a.SetDiv(50,5);
+
 	cout<<"\nDivision : "<<a.GetDiv();
 	return 0;
   }
