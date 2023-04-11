@@ -38,6 +38,7 @@ class Arithmetics
 	    x=a;
 		y=b;
 		}
+
 		int GetDiv()
 		{
 	    return x/y; 
@@ -57,8 +58,10 @@ class Arithmetics
 {
 	Arithmetics a;
 	a.SetAdd(5,4);
+
     cout<<"\nAdd : "<<a.GetAdd();
     a.SetSub(50,25);
+
 	cout<<"\nSub : "<<a.GetSub();
 	a.SetMod(30,4);
 	cout<<"\nMod : "<<a.GetMod();
