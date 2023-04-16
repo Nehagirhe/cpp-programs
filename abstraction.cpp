@@ -85,8 +85,10 @@ class Bank
 	cout<<"\n***** For Clerk *****"<<endl;
 	c.csetdata();
 	c.cgetdata();
+
 	Bank m;
 	m=c;
+
     cout<<"\n\n***** For Manager *****"<<endl;
 	m.msetdata();
 	m.mgetdata();
