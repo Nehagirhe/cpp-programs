@@ -5,7 +5,6 @@ using namespace std;
  
 class Encapsulation {
 private:
-    // Data hidden from outside world
     int x;
  
 public:
