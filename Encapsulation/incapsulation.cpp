@@ -9,8 +9,7 @@ private:
     int x;
  
 public:
-    // Function to set value of
-    // variable x
+  
     void set(int a) { x = a; }
  
     // Function to return value of
