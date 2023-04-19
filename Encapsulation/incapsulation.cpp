@@ -13,7 +13,7 @@ public:
     int get() { return x; }
 };
  
-// Driver code
+
 int main()
 {
     Encapsulation obj;
