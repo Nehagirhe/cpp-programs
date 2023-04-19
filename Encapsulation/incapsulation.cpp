@@ -10,9 +10,6 @@ private:
 public:
   
     void set(int a) { x = a; }
- 
-    // Function to return value of
-    // variable x
     int get() { return x; }
 };
  
