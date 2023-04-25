@@ -49,7 +49,5 @@ int main() {
 	
 	r1.Assign();
 	r1.Total();
-	
-	
 	return 0;
 }
