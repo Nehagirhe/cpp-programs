@@ -22,6 +22,7 @@ class Arithmetics
 		y=b;
 		}
 		int GetSub()
+
 		{
         return x-y;
 		}
