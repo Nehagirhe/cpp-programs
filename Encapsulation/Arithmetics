@@ -11,6 +11,7 @@ class Arithmetics
 		x=a;
 		y=b;
 		}
+
 		int GetAdd()
 		{
 		return x+y;
