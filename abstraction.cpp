@@ -15,6 +15,7 @@ class Bank
 	
 		void csetdata()
 		{
+			
 		string usern,passw;
 		cout<<"\nEnter Username : ";
 		cin>>username;
