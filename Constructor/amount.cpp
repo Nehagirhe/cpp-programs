@@ -7,6 +7,7 @@ Create An Object Of The  'AddAmount' Class And Display The Final Amount In The P
 
 #include <iostream>
 using namespace std;
+
 class AddAmount
 {
 	public:
