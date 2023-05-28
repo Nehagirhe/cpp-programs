@@ -16,8 +16,7 @@ class A
 	}
 	void Addition()
 	{
-		cout<<"Addition = "<<a+b;
-		
+		cout<<"Addition = "<<a+b;	
 	}
 };
 
