@@ -50,8 +50,10 @@ class Bank
 		{
 		/*cout<<"\nEnter Account No. : ";
 		cin>>acno;
+		
 		cout<<"Enter Name. : ";
 		cin>>name;
+		
 		cout<<"Enter Amount : ";
 		cin>>amount;
 		cout<<"Enter User Name : ";
