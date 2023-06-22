@@ -2,7 +2,6 @@
 using namespace std;
 class Bank
 {
-	
 	string acno;
 	string name;
 	string username;
