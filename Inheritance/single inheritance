@@ -18,6 +18,7 @@ public:
 		{
 		cout<<"ENTER STUDENT NAME : ";
 		cin>>name;
+
 		 cout<<"ENTER STUDENT LAST NAME : ";
 		cin>>lname;
 		cout<<"ENTER STUDENT ROLL NO. : ";
